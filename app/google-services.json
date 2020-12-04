@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "163459393618",
+    "firebase_url": "https://rit-college-app.firebaseio.com",
+    "project_id": "rit-college-app",
+    "storage_bucket": "rit-college-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163459393618:android:5e03cd85f58ba2fd03d78b",
+        "android_client_info": {
+          "package_name": "com.example.android55"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163459393618-pglis115em4fos29ejbi4am152qt07vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9qHXyMCg1gs80bZkWypJ9cwl1v7rKdZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163459393618-pglis115em4fos29ejbi4am152qt07vt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
